@@ -7,7 +7,9 @@ The default app will be modified to include custom configurations and DB changes
 
 #Goal
 - Use GitHub as source repository
+- Use Microsoft Team Services (aka Visual Studio Online)
 - Automated Build, Test and Deploy to dev, stage and prod environments running as Azure Website
 - Being able to handle DB schema changes
 - AppInsights enabled
 - Clone swap between stange and prod
+- (DB seeding)
