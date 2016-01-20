@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps.Hackathon.Web", "DevOps.Hackathon.Web\DevOps.Hackathon.Web.csproj", "{E91B1135-6A8C-4586-86F9-212F91917D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps.Hackathon.Web.Tests", "DevOps.Hackathon.Web.Tests\DevOps.Hackathon.Web.Tests.csproj", "{9A9DE700-D024-424D-85EE-3A5410DA7BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91B1135-6A8C-4586-86F9-212F91917D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91B1135-6A8C-4586-86F9-212F91917D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91B1135-6A8C-4586-86F9-212F91917D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91B1135-6A8C-4586-86F9-212F91917D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9DE700-D024-424D-85EE-3A5410DA7BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9DE700-D024-424D-85EE-3A5410DA7BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9DE700-D024-424D-85EE-3A5410DA7BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9DE700-D024-424D-85EE-3A5410DA7BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
